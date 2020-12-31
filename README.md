@@ -8,6 +8,7 @@
   
 ## Change Keymaps
 - [Keycodes Full List](https://docs.qmk.fm/#/keycodes)を参考に`keymap.c`をカスタマイズする
+- RAISE/LOWERキーと変換/無変換を同じキーに割り当てる方法は[これ](https://okapies.hateblo.jp/entry/2019/02/02/133953)を参照
 
 ## Write The Firmware
 - QMK Toolboxを使用して上記でビルドしたファームウェアをキーボードに書き込む
