@@ -7,7 +7,7 @@
   - 上で作成したフォルダに`config.h`,`keymap.c`,`rules.mk`の3ファイルを配置する
   
 ## Change Keymaps
-- (Keycodes Full List)[https://docs.qmk.fm/#/keycodes]を参考に`keymap.c`をカスタマイズする
+- [Keycodes Full List](https://docs.qmk.fm/#/keycodes)を参考に`keymap.c`をカスタマイズする
 
 ## Write The Firmware
 - QMK Toolboxを使用して上記でビルドしたファームウェアをキーボードに書き込む
